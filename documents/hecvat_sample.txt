@@ -1,0 +1,49 @@
+HECVAT Vendor Questionnaire
+
+Vendor Name: SecureTech Solutions
+
+Service Description:
+Cloud-based platform for storing and managing university records.
+
+Access Control:
+- Single Sign-On (SSO) supported
+- MFA enabled for administrators only
+- MFA for standard users not mentioned
+- Privileged account monitoring not specified
+- Password complexity policy documented
+- Role-Based Access Control implemented
+
+Data Protection:
+- AES-256 encryption at rest implemented
+- TLS 1.2 encryption in transit enabled
+- Key rotation schedule not documented
+- Encryption key management process not documented
+- Data deletion procedure unclear
+
+Privacy and Compliance:
+- GDPR compliance claimed
+- SOC2 Type II report attached
+- Compliance with Australian Privacy Act not specified
+- Data residency unclear
+- Privacy Impact Assessment not provided
+
+Business Continuity:
+- Backup process exists
+- Backup frequency not documented
+- Disaster recovery testing not specified
+- Recovery Time Objective (RTO) not documented
+
+Monitoring and Logging:
+- Security logging enabled
+- Log retention period not specified
+- SIEM integration not mentioned
+
+Network Security:
+- Firewall enabled
+- Vulnerability scanning schedule not documented
+- Penetration testing not mentioned
+
+Vendor Risk:
+- Third-party subcontractors not disclosed
+- Security awareness training for employees not mentioned
+- Vendor security audit frequency unclear

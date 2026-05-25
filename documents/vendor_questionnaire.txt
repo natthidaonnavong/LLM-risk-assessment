@@ -1,0 +1,34 @@
+Vendor Security Questionnaire
+
+Vendor Name: SecureTech Solutions
+
+Authentication and Access Management:
+- Single Sign-On supported
+- MFA enabled for administrators
+- Role-Based Access Control enabled
+- Password policy documented
+
+Encryption and Data Security:
+- AES-256 encryption enabled at rest
+- TLS 1.2 encryption enabled in transit
+- Encryption key rotation schedule not documented
+
+Privacy:
+- GDPR compliance claimed
+- Data residency location not provided
+- Privacy Impact Assessment unavailable
+
+Business Continuity:
+- Backup process exists
+- Recovery Time Objective not documented
+- Disaster recovery testing unclear
+
+Monitoring:
+- Security logging enabled
+- Log retention period unclear
+- SIEM integration unavailable
+
+Vendor Assurance:
+- Third-party subcontractors not disclosed
+- Employee cybersecurity training not mentioned
+- Security audit schedule not documented

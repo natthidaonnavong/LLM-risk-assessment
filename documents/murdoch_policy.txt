@@ -1,0 +1,34 @@
+Murdoch University Information Security Policy
+
+Purpose:
+This policy defines minimum cybersecurity expectations for third-party IT services used within the university.
+
+Access Control:
+- Multi-Factor Authentication (MFA) is recommended for privileged and administrative users.
+- Role-Based Access Control (RBAC) should be implemented where appropriate.
+- Password complexity requirements must be enforced.
+
+Data Protection:
+- Sensitive university data should be encrypted at rest using AES-256 or equivalent encryption.
+- Data in transit should be protected using secure communication protocols such as TLS.
+- Encryption key management and rotation should be documented.
+
+Privacy and Compliance:
+- Vendors processing student or staff data should comply with applicable privacy laws.
+- Data residency requirements should be documented.
+- Privacy Impact Assessments should be performed for high-risk services.
+
+Business Continuity:
+- Backup processes should be documented and tested.
+- Disaster Recovery (DR) testing should be conducted periodically.
+- Recovery Time Objective (RTO) and Recovery Point Objective (RPO) should be defined.
+
+Monitoring and Logging:
+- Security logging should be enabled.
+- Log retention periods should be documented.
+- Incident monitoring and alerting capabilities are recommended.
+
+Vendor Risk:
+- Third-party subcontractors should be disclosed.
+- Vendors should conduct periodic security audits.
+- Security awareness training should be provided to employees.
