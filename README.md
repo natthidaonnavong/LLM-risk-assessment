@@ -1,1 +1,1 @@
-# LLM-risk-assessment
+# llm-risk-assessment
